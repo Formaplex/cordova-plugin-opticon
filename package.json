@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-opticon",
+  "version": "0.0.1",
+  "description": "Apache Cordova Barcode Scanner Plugin for Opticon H-28",
+  "cordova": {
+    "id": "cordova-plugin-opticon",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Connor Howell",
+  "license": "Apache-2.0"
+}
